@@ -1,7 +1,7 @@
 ---
 title: '[Javascript] jQuery data() 메소드 흔한 실수'
 date: 2018-12-23 16:21:13
-category: 'questions'
+category: 'javascript'
 ---
 웹 개발시 jQuery를 사용하다 보면 data\() 메소드를 많이 사용하게 되는데,  이 때 메소드가 정확히 어떤식으로 동작하는지 모르고 사용하다 보면 다음과 같은 상황을 만나게 된다.
 
