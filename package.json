@@ -69,11 +69,12 @@
     "url": "git+https://github.com/JaeYeopHan/gatsby-starter-bee.git"
   },
   "scripts": {
+    "deploy": "gatsby build && gh-pages -d public -b master -r 'git@github.com:jwooss/woddy.github.io.git",
     "post": "node ./cli/create-new-post.js",
     "dev": "gatsby develop",
     "lint": "eslint --ext .js,.jsx --ignore-pattern public .",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write 'src/**/*.js' 'src/**/*.md'",
-    "develop": "gatsby build && gh-pages -d public -b master -r 'git@github.com:jwooss/woddy.github.io.git'",
+    "develop": "gatsby develop",
     "start": "npm run develop",
     "build": "gatsby build",
     "fix-semi": "eslint --quiet --ignore-pattern node_modules --ignore-pattern public --parser babel-eslint --no-eslintrc --rule '{\"semi\": [2, \"never\"], \"no-extra-semi\": [2]}' --fix gatsby-node.js"
