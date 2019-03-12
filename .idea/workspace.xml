@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e19f947-6d8c-4011-bbf4-3ff34fd3de56" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/content/blog/javascript/es6-spread-operator.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/javascript/es6-spread-operator.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/javascript/es6-spread-operator.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,12 +12,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/blog/javascript/es6-enhanced-object-literal.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="264">
+                <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+                <folding>
+                  <marker date="1552223682339" expanded="true" signature="821:940" ph="[...]" />
+                  <marker date="1552223682339" expanded="true" signature="972:1006" ph="{...}" />
+                  <marker date="1552223682339" expanded="true" signature="982:1004" ph="{&quot;null&quot;: v.age...}" />
+                  <marker date="1552223682339" expanded="true" signature="1187:1252" ph="{&quot;name&quot;: 'wooddy'...}" />
+                  <marker date="1552223682339" expanded="true" signature="1227:1250" ph="{...}" />
+                  <marker date="1552223682339" expanded="true" signature="1350:1416" ph="{&quot;name&quot;: 'wooddy'...}" />
+                  <marker date="1552223682339" expanded="true" signature="1356:1416" ph="{&quot;name&quot;: 'wooddy'...}" />
+                  <marker date="1552223682339" expanded="true" signature="1386:1414" ph="{...}" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/content/blog/javascript/es6-spread-operator.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="168">
-                <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+              <first_editor relative-caret-position="478">
+                <caret line="42" column="13" lean-forward="true" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
               </first_editor>
               <second_editor />
             </state>
@@ -151,12 +172,12 @@
       <workItem from="1551618878289" duration="5873000" />
       <workItem from="1551882271490" duration="201000" />
       <workItem from="1552222649597" duration="1523000" />
-      <workItem from="1552400249388" duration="1623000" />
+      <workItem from="1552400249388" duration="2160000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9220000" />
+    <option name="totallyTimeSpent" value="9757000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -171,6 +192,28 @@
     <frame x="1146" y="0" width="1421" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.17634092" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32968238" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32967034" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.24315444" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17634092" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
@@ -186,12 +229,12 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32967034" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.2475356" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.24315444" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -351,7 +394,7 @@
     <entry file="file://$PROJECT_DIR$/content/blog/javascript/es6-enhanced-object-literal.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="120">
+          <first_editor relative-caret-position="264">
             <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
             <folding>
               <marker date="1552223682339" expanded="true" signature="821:940" ph="[...]" />
@@ -371,8 +414,8 @@
     <entry file="file://$PROJECT_DIR$/content/blog/javascript/es6-spread-operator.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="168">
-            <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+          <first_editor relative-caret-position="478">
+            <caret line="42" column="13" lean-forward="true" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
           </first_editor>
           <second_editor />
         </state>

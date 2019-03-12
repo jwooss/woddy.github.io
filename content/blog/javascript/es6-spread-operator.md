@@ -23,65 +23,32 @@ let newUsers = [...users] // ['wooddy1', 'wooddy2', 'wooddy3']
 ```
 <br/>
 
-전개 연산자는 매개변수로 사용될 때 유용한데 전개 연산자를 사용하기 이전에는
+보통 매개변수로 사용될 때 유용한데 
+전개 연산자를 사용하지 않고 곱셈연산을 하는 함수를 작성해보면  
 
-```javascript{9,10}
-var users = [
-    {name: 'wooddy1', age: 28},
-    {name: 'wooddy2', age: 28},
-    {name: 'wooddy3', age: 28},
-    {name: 'wooddy4', age: 28},
-]
-    
-var obj = users.map((v, k) => {
-	var user = {}
-	obj[v.name] = v.age
-	return obj
-})
-    
-console.log(obj) //[{wooddy1: 28}, {wooddy2: 28}, {wooddy3: 28}, {wooddy4: 28}] 
-```
-
-ES6에서는 객체 리터럴 선언시 동적으로 생성 가능하다.
-
-```javascript{10}
-let users = [
-	{name: 'wooddy1', age: 28},
-	{name: 'wooddy2', age: 28},
-	{name: 'wooddy3', age: 28},
-	{name: 'wooddy4', age: 28},
-]
-
-let obj = users.map((v, k) => {
-	return {
-		[v.name]: v.age
-	}
-})
-console.log(obj) //[{wooddy1: 28}, {wooddy2: 28}, {wooddy3: 28}, {wooddy4: 28}]
-```
-<br/>
-
-###3. 메소드 축약 (function 예약어 생략)
-ES5에서 프로퍼티 값으로 함수 선언식을 사용한다.
-```javascript{3}
-var user = {
-	name: 'wooddy',
-	getName: function() {
-		return this.name
-	}
+```javascript
+function multi() {
+  let args = Array.from(arguments)// 유사배열 변환
+  let result = args.reduce(function(acc, val) {
+    return acc * val
+  })
 }
 
-user.getName() // 'woody'
+multi(1, 2, 3) // 6
+multi(2, 4, 6) // 12
 ```
 
-ES6에서는  function 예약어 생략하여 사용할 수 있다.
-```javascript{3}
-const obj = {
-    name: 'wooddy',
-   	getName() {
-  		return this.name
-   	}
+여기서 전개 연산자를 이용하면 코드를 줄이고 더 쉽게 작성할 수 있다.
+
+```javascript
+function multi(...args) {
+  let result = args.reduce(function(acc, val) {
+    return acc * val
+  })
 }
-    
-user.getName() // 'woody'
+
+multi(1, 2, 3) // 6
+multi(2, 4, 6) // 12
 ```
+
+한 줄의 코드가 제거되었고 읽기 쉽고 명확한 코드로 바뀌었다.
