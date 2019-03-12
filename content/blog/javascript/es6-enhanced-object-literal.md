@@ -1,5 +1,5 @@
 ---
-title: '[Javascript] ES6 - 향상된 객체 리터럴'
+title: '[Javascript] ES6 - 향상된 객체 리터럴(Enhanced Object Literal)'
 date: 2019-03-10 22:00:00
 category: 'javascript'
 ---

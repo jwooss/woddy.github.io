@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e19f947-6d8c-4011-bbf4-3ff34fd3de56" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/content/blog/javascript/es6-enhanced-object-literal.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/javascript/es6-enhanced-object-literal.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/blog/javascript/es6-spread-operator.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/javascript/es6-spread-operator.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,17 +17,17 @@
         <entry file="file://$PROJECT_DIR$/content/blog/javascript/es6-enhanced-object-literal.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="264">
-                <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+              <first_editor relative-caret-position="96">
+                <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
                 <folding>
-                  <marker date="1552223682339" expanded="true" signature="821:940" ph="[...]" />
-                  <marker date="1552223682339" expanded="true" signature="972:1006" ph="{...}" />
-                  <marker date="1552223682339" expanded="true" signature="982:1004" ph="{&quot;null&quot;: v.age...}" />
-                  <marker date="1552223682339" expanded="true" signature="1187:1252" ph="{&quot;name&quot;: 'wooddy'...}" />
-                  <marker date="1552223682339" expanded="true" signature="1227:1250" ph="{...}" />
-                  <marker date="1552223682339" expanded="true" signature="1350:1416" ph="{&quot;name&quot;: 'wooddy'...}" />
-                  <marker date="1552223682339" expanded="true" signature="1356:1416" ph="{&quot;name&quot;: 'wooddy'...}" />
-                  <marker date="1552223682339" expanded="true" signature="1386:1414" ph="{...}" />
+                  <marker date="1552402677825" expanded="true" signature="846:965" ph="[...]" />
+                  <marker date="1552402677825" expanded="true" signature="997:1031" ph="{...}" />
+                  <marker date="1552402677825" expanded="true" signature="1007:1029" ph="{&quot;null&quot;: v.age...}" />
+                  <marker date="1552402677825" expanded="true" signature="1212:1277" ph="{&quot;name&quot;: 'wooddy'...}" />
+                  <marker date="1552402677825" expanded="true" signature="1252:1275" ph="{...}" />
+                  <marker date="1552402677825" expanded="true" signature="1375:1441" ph="{&quot;name&quot;: 'wooddy'...}" />
+                  <marker date="1552402677825" expanded="true" signature="1381:1441" ph="{&quot;name&quot;: 'wooddy'...}" />
+                  <marker date="1552402677825" expanded="true" signature="1411:1439" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -38,8 +39,8 @@
         <entry file="file://$PROJECT_DIR$/content/blog/javascript/es6-spread-operator.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="478">
-                <caret line="42" column="13" lean-forward="true" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+              <first_editor relative-caret-position="504">
+                <caret line="56" column="3" selection-start-line="56" selection-start-column="3" selection-end-line="56" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -75,8 +76,8 @@
         <option value="$PROJECT_DIR$/content/blog/javascript/jquery_data_method.md" />
         <option value="$PROJECT_DIR$/content/blog/php/session_lock.md" />
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/content/blog/javascript/es6-enhanced-object-literal.md" />
         <option value="$PROJECT_DIR$/content/blog/javascript/jquery-data-method.md" />
+        <option value="$PROJECT_DIR$/content/blog/javascript/es6-enhanced-object-literal.md" />
         <option value="$PROJECT_DIR$/content/blog/javascript/es6-spread-operator.md" />
       </list>
     </option>
@@ -172,12 +173,12 @@
       <workItem from="1551618878289" duration="5873000" />
       <workItem from="1551882271490" duration="201000" />
       <workItem from="1552222649597" duration="1523000" />
-      <workItem from="1552400249388" duration="2160000" />
+      <workItem from="1552400249388" duration="2877000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9757000" />
+    <option name="totallyTimeSpent" value="10474000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -204,10 +205,10 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32968238" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32967034" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32858709" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.24315444" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.24315444" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -394,17 +395,17 @@
     <entry file="file://$PROJECT_DIR$/content/blog/javascript/es6-enhanced-object-literal.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="264">
-            <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+          <first_editor relative-caret-position="96">
+            <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
             <folding>
-              <marker date="1552223682339" expanded="true" signature="821:940" ph="[...]" />
-              <marker date="1552223682339" expanded="true" signature="972:1006" ph="{...}" />
-              <marker date="1552223682339" expanded="true" signature="982:1004" ph="{&quot;null&quot;: v.age...}" />
-              <marker date="1552223682339" expanded="true" signature="1187:1252" ph="{&quot;name&quot;: 'wooddy'...}" />
-              <marker date="1552223682339" expanded="true" signature="1227:1250" ph="{...}" />
-              <marker date="1552223682339" expanded="true" signature="1350:1416" ph="{&quot;name&quot;: 'wooddy'...}" />
-              <marker date="1552223682339" expanded="true" signature="1356:1416" ph="{&quot;name&quot;: 'wooddy'...}" />
-              <marker date="1552223682339" expanded="true" signature="1386:1414" ph="{...}" />
+              <marker date="1552402677825" expanded="true" signature="846:965" ph="[...]" />
+              <marker date="1552402677825" expanded="true" signature="997:1031" ph="{...}" />
+              <marker date="1552402677825" expanded="true" signature="1007:1029" ph="{&quot;null&quot;: v.age...}" />
+              <marker date="1552402677825" expanded="true" signature="1212:1277" ph="{&quot;name&quot;: 'wooddy'...}" />
+              <marker date="1552402677825" expanded="true" signature="1252:1275" ph="{...}" />
+              <marker date="1552402677825" expanded="true" signature="1375:1441" ph="{&quot;name&quot;: 'wooddy'...}" />
+              <marker date="1552402677825" expanded="true" signature="1381:1441" ph="{&quot;name&quot;: 'wooddy'...}" />
+              <marker date="1552402677825" expanded="true" signature="1411:1439" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />
@@ -414,8 +415,8 @@
     <entry file="file://$PROJECT_DIR$/content/blog/javascript/es6-spread-operator.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="478">
-            <caret line="42" column="13" lean-forward="true" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+          <first_editor relative-caret-position="504">
+            <caret line="56" column="3" selection-start-line="56" selection-start-column="3" selection-end-line="56" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
