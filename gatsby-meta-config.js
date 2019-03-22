@@ -14,7 +14,7 @@ module.exports = {
   keywords: [`blog`],
   comment: {
     disqusShortName: '', // Your disqus-short-name. check disqus.com.
-    utterances: 'JaeYeopHan/gatsby-starter-bee', // Yenour repository for archive commt
+    utterances: 'jwooss/woddy.github.io', // Yenour repository for archive commt
   },
   configs: {
     countOfInitialPost: 10, // Config your initial count of post
