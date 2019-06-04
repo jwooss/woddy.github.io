@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e19f947-6d8c-4011-bbf4-3ff34fd3de56" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/java/springboot-exception-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/java/springboot-exception-1.md" afterDir="false" />
-    </list>
+    <list default="true" id="1e19f947-6d8c-4011-bbf4-3ff34fd3de56" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +19,8 @@
         <entry file="file://$PROJECT_DIR$/content/blog/java/springboot-exception-1.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="323">
-                <caret line="144" column="19" selection-start-line="144" selection-start-column="19" selection-end-line="144" selection-end-column="19" />
+              <first_editor relative-caret-position="3480">
+                <caret line="145" selection-start-line="145" selection-end-line="145" />
               </first_editor>
               <second_editor />
             </state>
@@ -172,12 +169,12 @@
       <workItem from="1559052680801" duration="1095000" />
       <workItem from="1559135928319" duration="1150000" />
       <workItem from="1559217670268" duration="1552000" />
-      <workItem from="1559485143364" duration="2865000" />
+      <workItem from="1559485143364" duration="2949000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10315000" />
+    <option name="totallyTimeSpent" value="10399000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -189,8 +186,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1113" y="0" width="1454" height="1047" extended-state="0" />
-    <editor active="true" />
+    <frame x="1111" y="0" width="1456" height="1047" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.12678856" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -205,10 +201,10 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32968238" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.28850326" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.28806135" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.23110624" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.4370208" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -447,8 +443,8 @@
     <entry file="file://$PROJECT_DIR$/content/blog/java/springboot-exception-1.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="323">
-            <caret line="144" column="19" selection-start-line="144" selection-start-column="19" selection-end-line="144" selection-end-column="19" />
+          <first_editor relative-caret-position="3480">
+            <caret line="145" selection-start-line="145" selection-end-line="145" />
           </first_editor>
           <second_editor />
         </state>
